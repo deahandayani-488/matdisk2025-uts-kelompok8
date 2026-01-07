@@ -5,9 +5,9 @@ import (
 	"math/rand"
 	"time"
 
-	"matdisk2025-uts-kelompok3/deret"
-	"matdisk2025-uts-kelompok3/himpunan"
-	"matdisk2025-uts-kelompok3/matrix"
+	"matdisk2025-uts-kelompok8/deret"
+	"matdisk2025-uts-kelompok8/himpunan"
+	"matdisk2025-uts-kelompok8/matrix"
 )
 
 func main() {
